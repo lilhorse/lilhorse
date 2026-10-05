@@ -1,6 +1,17 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://lil.horse/brand/horse-night.svg"><a href="https://lil.horse"><img align="left" width="120" alt="lil.horse" src="https://lil.horse/brand/horse-chestnut.svg"></a></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://lil.horse/brand/masthead-dark.svg?v=68d4bf89"><a href="https://lil.horse"><img alt="Lil’Horse" width="312" src="https://lil.horse/brand/masthead-light.svg?v=bd4abde7"></a></picture>
+<div>
+  <a href="https://lil.horse">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://lil.horse/brand/horse-night.svg">
+      <img align="left" width="120" alt="lil.horse" src="https://lil.horse/brand/horse-chestnut.svg">
+    </picture>
+  </a>
+  <a href="https://lil.horse">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://lil.horse/brand/masthead-dark.svg?v=68d4bf89">
+      <img alt="Lil’Horse" width="312" src="https://lil.horse/brand/masthead-light.svg?v=bd4abde7">
+    </picture>
+  </a>
+</div>
 
 *Dis is da cyberspace of Lil’Horse, just chill and have fun 🍻.*
 
