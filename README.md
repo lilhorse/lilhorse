@@ -13,7 +13,7 @@
   </a>
 </div>
 
-*Dis is da cyberspace of Lil’Horse, just chill and have fun 🍻.*
+*Yo, dis is Lil’Horse’s crib — pull up n chill 🍻*
 
 **Role** · Freelance full-stack developer<br>
 **Location** · Auckland, New Zealand<br>
