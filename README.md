@@ -17,7 +17,7 @@
 
 **Role** · Freelance full-stack developer<br>
 **Location** · Auckland, New Zealand<br>
-**Stack** · ~~`TypeScript`~~ · ~~`Python`~~ · ~~`Go`~~ · ~~`PHP`~~ · ~~`Dart`~~ · ~~`Vue`~~ · ~~`React`~~ · ~~`Next.js`~~ · ~~`Flutter`~~ · ~~`Node.js`~~ · ~~`Tailwind CSS`~~ · ~~`Cloudflare`~~ · ~~`Docker`~~ · ~~`PostgreSQL`~~ · ~~`Redis`~~ · ~~`Solidity`~~ *\# DEPRECATED: use Claude & Codex instead 😎*<br>
+**Stack** · ~~`TypeScript`~~ · ~~`Python`~~ · ~~`Go`~~ · ~~`PHP`~~ · ~~`Dart`~~ · ~~`Vue`~~ · ~~`React`~~ · ~~`Next.js`~~ · ~~`Flutter`~~ · ~~`Node.js`~~ · ~~`Tailwind CSS`~~ · ~~`Cloudflare`~~ · ~~`Docker`~~ · ~~`PostgreSQL`~~ · ~~`Redis`~~ · ~~`Solidity`~~ · ~~`MySQL`~~ *\# DEPRECATED: use Claude & Codex instead 😎*<br>
 **Status** · 🟢 Open to work<br>
 **Contact** · [lil.horse](https://lil.horse) · [email](https://lil.horse/contact) · [github](https://github.com/lilhorse) · [x](https://x.com/lil_horse_)<br>
 
